@@ -9,4 +9,4 @@ This repository contains:
 - Text files for use in the Jagugar Project.
 - Example usage scripts for demonstrating how to access these files.
 
-## currently jadugar project is underdevelopment and we cannot share more info about it, STAY TUNE FOR RELEASE
+#### currently jadugar project is underdevelopment and we cannot share more info about it.
