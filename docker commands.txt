@@ -1,0 +1,13 @@
+1) go to container directory
+2) docker build -t exosky_api:latest .
+3) docker run -d -p 5000:5000 --name exosky_container exosky_api:latest
+
+4) docker ps #to check running containers
+5) docker logs exosky_container #shows logs of running container
+
+6) docker login #for first time user
+7) docker tag exosky:apilatest rajnandale/exosky_api:latest
+
+
+
+
